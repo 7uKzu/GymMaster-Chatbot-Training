@@ -2,7 +2,7 @@
 
 GymMaster is a text-based Convolutional Neural Network (CNN) designed to classify exercise titles into one of 11 primary muscle groups. Leveraging only exercise names, the model achieves high accuracy (98.44%) in predicting the targeted muscle group, demonstrating that short text contains sufficient semantic cues for biomechanical classification.
 
-Key Features:
+# Key Features:
 
 Multi-class text classification for fitness exercises
 
@@ -14,7 +14,7 @@ Fast training with Google Colab GPU support
 
 Visualizations for training history, confusion matrix, and classification performance
 
-Project Goals:
+# Project Goals:
 
 Enable fitness apps to automatically identify targeted muscles from exercise titles
 
